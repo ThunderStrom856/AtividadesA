@@ -1,0 +1,26 @@
+header{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(224, 32, 32);
+    padding: 20px 0;
+    border-style: solid;
+}
+section{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 40px 0;
+}
+section img{
+    border-radius: 30px;
+    width: 35em;
+    height: 35em;
+    border-radius: 30px;
+}
+body{
+    background-color: black;
+    margin: 0;
+}
+a{
+    color: aliceblue;
+}

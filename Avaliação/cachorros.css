@@ -1,0 +1,32 @@
+body {
+    font-family: 'Courier New' ,  'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    background:rgb(216, 189, 138);
+}
+header, footer {
+    color:rgb(255, 255, 255);
+    background:rgb(31, 22, 8);
+    text-align: center;
+    padding: 5px 0;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 20px 0;
+}
+section div{
+    flex-basis: 40%;
+    margin: 10px;
+    text-align: center;
+}
+section img {
+    width: 25em;
+    height: 25em;
+    border-radius: 30px;
+    mix-blend-mode: multiply;
+}
+hr{
+    border-color: #868686; 
+   }
