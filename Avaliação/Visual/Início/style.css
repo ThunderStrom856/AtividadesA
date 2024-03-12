@@ -5,22 +5,41 @@ header{
     padding: 20px 0;
     border-style: solid;
 }
-section{
+
+#ima {
     display: flex;
     justify-content: center;
     text-align: center;
     padding: 40px 0;
 }
-section img{
+
+#ima img{
     border-radius: 30px;
     width: 35em;
     height: 35em;
     border-radius: 30px;
 }
+
 body{
     background-color: black;
     margin: 0;
 }
-a{
+a {
     color: aliceblue;
+}
+
+#btn {
+    justify-content: center;
+    text-align: center;
+}
+
+.button {
+    display: block;
+    width: 250px;
+    height: 40px;
+    border-radius: 3000px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(224, 32, 32);
+    margin-left: 44%;
+    margin-bottom: 5px;
 }

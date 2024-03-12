@@ -1,5 +1,4 @@
 .hulk {
-
     font-weight: 10;
     color: rgb(255, 255, 255);
     text-align: center;
@@ -42,4 +41,7 @@ a {
     color: aliceblue;
 }
 
+.hulkao {  
+    transition: 0.3;
+}
 
